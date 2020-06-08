@@ -11,4 +11,6 @@ class EmailAddressParser
     email_addresses.reject! {|element| element.empty?}
     email_addresses
 
+  end
+
 end
