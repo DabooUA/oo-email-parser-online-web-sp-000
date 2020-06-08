@@ -5,3 +5,5 @@ class EmailAddressParser
   def parcer (email)
     @email = email
   end
+
+end
